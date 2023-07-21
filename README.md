@@ -1,7 +1,7 @@
 # Work-History
 Showcase of my work history 
 
-**Tek Experts – Victoria Island, Lagos** 
+**Tek Experts – Victoria Island, Lagos**                                                                     ![](Images/LP-SKU-D4-1-IMG-en-us-1631730529810.jpg)
 
 Technical Lead Sept. 2022 – Present 
 
