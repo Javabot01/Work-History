@@ -1,7 +1,7 @@
 # Work-History
 Showcase of my work history 
 
-**Tek Experts – Victoria Island, Lagos**                                                                     ![](Images/LP-SKU-D4-1-IMG-en-us-1631730529810.jpg)
+**Tek Experts – Victoria Island, Lagos**   ![](Images/LP-SKU-D4-1-IMG-en-us-1631730529810.jpg)
 
 Technical Lead Sept. 2022 – Present 
 
@@ -26,4 +26,6 @@ team.
 9.  Microsoft 365 Business Central reporting, connecting Power Bi, and SQL architecture.
 10. Basic AL customization of the application in Visual Studio, and AL Language for development. 
 
-[See More](https://javabot01.github.io/)
+[See More](https://javabot01.github.io/) 
+
+theme: minima
