@@ -26,3 +26,4 @@ team.
 9.  Microsoft 365 Business Central reporting, connecting Power Bi, and SQL architecture.
 10. Basic AL customization of the application in Visual Studio, and AL Language for development. 
 
+[See More](https://javabot01.github.io/)
